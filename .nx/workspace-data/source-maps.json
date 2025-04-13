@@ -1,208 +1,232 @@
 {
-  "apps/todos": {
+  "apps/todo-app": {
     "root": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
     "name": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "$schema": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "projectType": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "prefix": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "sourceRoot": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
     "tags": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "tags.npm:private": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "metadata.targetGroups": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "metadata.targetGroups.NPM Scripts": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "metadata.targetGroups.NPM Scripts.0": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "metadata.targetGroups.NPM Scripts.1": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "metadata.targetGroups.NPM Scripts.2": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "metadata.targetGroups.NPM Scripts.3": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "metadata.targetGroups.NPM Scripts.4": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "metadata.js": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "metadata.js.packageName": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "metadata.js.isInPackageManagerWorkspaces": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
     "targets": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "targets.ng": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "targets.ng.executor": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "targets.ng.options": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "targets.ng.metadata": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "targets.ng.options.script": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "targets.ng.metadata.scriptContent": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "targets.ng.metadata.runCommand": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "targets.start": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "targets.start.executor": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "targets.start.options": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "targets.start.metadata": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "targets.start.options.script": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "targets.start.metadata.scriptContent": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "targets.start.metadata.runCommand": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
     "targets.build": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
     "targets.build.executor": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
-    "targets.build.metadata": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
-    ],
-    "targets.build.cache": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+    "targets.build.outputs": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
     "targets.build.options": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
-    "targets.build.options.script": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+    "targets.build.configurations": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
-    "targets.build.metadata.scriptContent": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+    "targets.build.defaultConfiguration": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
-    "targets.build.metadata.runCommand": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+    "targets.build.options.outputPath": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
-    "targets.watch": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+    "targets.build.options.index": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
-    "targets.watch.executor": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+    "targets.build.options.browser": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
-    "targets.watch.options": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+    "targets.build.options.polyfills": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
-    "targets.watch.metadata": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+    "targets.build.options.tsConfig": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
-    "targets.watch.options.script": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+    "targets.build.options.inlineStyleLanguage": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
-    "targets.watch.metadata.scriptContent": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+    "targets.build.options.assets": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
-    "targets.watch.metadata.runCommand": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+    "targets.build.options.styles": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
-    "targets.test": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+    "targets.build.options.scripts": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
-    "targets.test.executor": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+    "targets.build.configurations.production": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
-    "targets.test.options": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+    "targets.build.configurations.production.budgets": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
-    "targets.test.metadata": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+    "targets.build.configurations.production.outputHashing": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
-    "targets.test.options.script": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+    "targets.build.configurations.development": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
-    "targets.test.metadata.scriptContent": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+    "targets.build.configurations.development.optimization": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
     ],
-    "targets.test.metadata.runCommand": [
-      "apps/todos/package.json",
-      "nx/core/package-json"
+    "targets.build.configurations.development.extractLicenses": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.configurations.development.sourceMap": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.executor": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.defaultConfiguration": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.production.buildTarget": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve.configurations.development.buildTarget": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.executor": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.options": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.extract-i18n.options.buildTarget": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.lint.executor": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.executor": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.buildTarget": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.staticFilePath": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.serve-static.options.spa": [
+      "apps/todo-app/project.json",
+      "nx/core/project-json"
+    ],
+    "targets.build.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.dependsOn": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.build.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.cache": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.inputs": [
+      "nx.json",
+      "nx/target-defaults"
+    ],
+    "targets.lint.parallelism": [
+      "nx.json",
+      "nx/target-defaults"
     ]
   }
 }

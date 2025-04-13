@@ -1,0 +1,78 @@
+
+> todos@0.0.0 start /Users/jamesreed/new repos/my-apps/apps/todos
+> ng serve
+
+[1m[33mComponent HMR has been enabled.
+If you encounter application reload issues, you can manually reload the page to bypass HMR and/or disable this feature with the `--no-hmr` command line option.
+Please consider reporting any issues you encounter here: https://github.com/angular/angular-cli/issues
+[39m[22m
+[?25l[2m◼[22m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[33m⠹[39m Building...
+[2K[1A[2K[G[33m⠸[39m Building...
+[2K[1A[2K[G[33m⠼[39m Building...
+[2K[1A[2K[G[33m⠴[39m Building...
+[2K[1A[2K[G[33m⠦[39m Building...
+[2K[1A[2K[G[33m⠧[39m Building...
+[2K[1A[2K[G[33m⠇[39m Building...
+[2K[1A[2K[G[33m⠏[39m Building...
+[2K[1A[2K[G[33m⠋[39m Building...
+[2K[1A[2K[G[33m⠙[39m Building...
+[2K[1A[2K[G[32m✔[39m Building...
+[2K[1A[2K[G[?25h[1mInitial chunk files[22m[2m | [22m[1mNames[22m        [2m | [22m [1mRaw size[22m
+[32mpolyfills.js[39m       [2m | [22m[2mpolyfills[22m    [2m | [22m [36m90.24 kB[39m[2m | [22m
+[32mmain.js[39m            [2m | [22m[2mmain[22m         [2m | [22m  [36m8.44 kB[39m[2m | [22m
+[32mstyles.css[39m         [2m | [22m[2mstyles[22m       [2m | [22m  [36m8.16 kB[39m[2m | [22m
+
+[1m [22m                  [2m | [22m[1mInitial total[22m[2m | [22m[1m106.84 kB[22m
+
+Application bundle generation complete. [1.204 seconds]
+
+Watch mode enabled. Watching for file changes...
+NOTE: Raw file sizes do not reflect development server per-request transformations.
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[?25l[2m◼[22m Changes detected. Rebuilding...
+[2K[1A[2K[G[33m⠋[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[32m✔[39m Changes detected. Rebuilding...
+[2K[1A[2K[G[?25hApplication bundle generation failed. [0.046 seconds]
+
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "@angular/material/prebuilt-themes/cyan-orange.css"[0m
+
+    angular:styles/global:styles:1:8:
+[37m      1 │ @import [32m'@angular/material/prebuilt-themes/cyan-orange.css'[37m;
+        ╵         [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m
+
+  You can mark the path "@angular/material/prebuilt-themes/cyan-orange.css" as external to exclude it from the bundle, which will remove this error and leave the unresolved path in the bundle.
+
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "src/styles.scss"[0m
+
+    angular:styles/global:styles:2:8:
+[37m      2 │ @import [32m'src/styles.scss'[37m;
+        ╵         [32m~~~~~~~~~~~~~~~~~[0m
+
+  You can mark the path "src/styles.scss" as external to exclude it from the bundle, which will remove this error and leave the unresolved path in the bundle.
+
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mCannot find tsconfig file "tsconfig.app.json"[0m
+
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS500: Error: ENOENT: no such file or directory, lstat '/Users/jamesreed/new repos/my-apps/apps/todos/tsconfig.app.json'
+    at Object.lstatSync (node:fs:1716:25)
+    at NodeJSFileSystem.lstat (file:///Users/jamesreed/new%20repos/my-apps/node_modules/.pnpm/@angular+compiler-cli@19.2.6_@angular+compiler@19.2.6_typescript@5.7.3/node_modules/@angular/compiler-cli/bundles/chunk-STORTTKY.js:343:16)
+    at calcProjectFileAndBasePath (file:///Users/jamesreed/new%20repos/my-apps/node_modules/.pnpm/@angular+compiler-cli@19.2.6_@angular+compiler@19.2.6_typescript@5.7.3/node_modules/@angular/compiler-cli/bundles/chunk-DOIZMHHW.js:4882:29)
+    at readConfiguration (file:///Users/jamesreed/new%20repos/my-apps/node_modules/.pnpm/@angular+compiler-cli@19.2.6_@angular+compiler@19.2.6_typescript@5.7.3/node_modules/@angular/compiler-cli/bundles/chunk-DOIZMHHW.js:4910:39)
+    at /Users/jamesreed/new repos/my-apps/node_modules/.pnpm/@angular+build@19.2.7_@angular+compiler-cli@19.2.6_@angular+compiler@19.2.6_typescript@_da8846e6dd3f8791de2cf881aa6d41d6/node_modules/@angular/build/src/tools/angular/compilation/angular-compilation.js:71:69
+    at profileSync (/Users/jamesreed/new repos/my-apps/node_modules/.pnpm/@angular+build@19.2.7_@angular+compiler-cli@19.2.6_@angular+compiler@19.2.6_typescript@_da8846e6dd3f8791de2cf881aa6d41d6/node_modules/@angular/build/src/tools/esbuild/profiling.js:68:16)
+    at AotCompilation.loadConfiguration (/Users/jamesreed/new repos/my-apps/node_modules/.pnpm/@angular+build@19.2.7_@angular+compiler-cli@19.2.6_@angular+compiler@19.2.6_typescript@_da8846e6dd3f8791de2cf881aa6d41d6/node_modules/@angular/build/src/tools/angular/compilation/angular-compilation.js:71:44)
+    at async AotCompilation.initialize (/Users/jamesreed/new repos/my-apps/node_modules/.pnpm/@angular+build@19.2.7_@angular+compiler-cli@19.2.6_@angular+compiler@19.2.6_typescript@_da8846e6dd3f8791de2cf881aa6d41d6/node_modules/@angular/build/src/tools/angular/compilation/aot-compilation.js:62:100)
+    at async initialize (/Users/jamesreed/new repos/my-apps/node_modules/.pnpm/@angular+build@19.2.7_@angular+compiler-cli@19.2.6_@angular+compiler@19.2.6_typescript@_da8846e6dd3f8791de2cf881aa6d41d6/node_modules/@angular/build/src/tools/angular/compilation/parallel-worker.js:38:88)
+    at async /Users/jamesreed/new repos/my-apps/node_modules/.pnpm/piscina@4.8.0/node_modules/piscina/dist/worker.js:144:26[0m [1m[35m[plugin angular-compiler][0m
+
+
+[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mCould not resolve "/Users/jamesreed/new repos/my-apps/apps/todos/src/main.ts"[0m
+
+[39m[22m
+^C[?25h
