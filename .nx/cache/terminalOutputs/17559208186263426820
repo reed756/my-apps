@@ -1,0 +1,11 @@
+
+> todos@0.0.0 start /Users/jamesreed/new repos/my-apps/apps/todos
+> ng serve
+
+ [1mPort 4200 is already in use.
+Would you like to use a different port?[22m [2m(Y/n)[22m[47G[48G[2K[1A[2K[G [1mPort 4200 is already in use.
+Would you like to use a different port?[22m [2m(Y/n)[22m n[48G[47G[2K[1A[2K[G [1mPort 4200 is already in use.
+Would you like to use a different port?[22m [36mNo[39m[43G
+[?25h[1m[31mAn unhandled exception occurred: Port 4200 is already in use. Use '--port' to specify a different port.
+See "/private/var/folders/dl/y7xw7hh15qq9jbqkb65rnpl80000gn/T/ng-EpGS66/angular-errors.log" for further details.[39m[22m
+[41m[30m ELIFECYCLE [39m[49m [31mCommand failed.[39m

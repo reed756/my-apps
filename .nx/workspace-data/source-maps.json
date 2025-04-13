@@ -1,0 +1,208 @@
+{
+  "apps/todos": {
+    "root": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "name": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "tags": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "tags.npm:private": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.0": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.1": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.2": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.3": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.targetGroups.NPM Scripts.4": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.packageName": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "metadata.js.isInPackageManagerWorkspaces": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.ng": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.ng.executor": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.ng.options": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.ng.metadata": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.ng.options.script": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.ng.metadata.scriptContent": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.ng.metadata.runCommand": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start.executor": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start.options": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start.metadata": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start.options.script": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start.metadata.scriptContent": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.start.metadata.runCommand": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.executor": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.metadata": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.cache": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.options": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.options.script": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.metadata.scriptContent": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.build.metadata.runCommand": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.watch": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.watch.executor": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.watch.options": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.watch.metadata": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.watch.options.script": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.watch.metadata.scriptContent": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.watch.metadata.runCommand": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.executor": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.options": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.metadata": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.options.script": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.metadata.scriptContent": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ],
+    "targets.test.metadata.runCommand": [
+      "apps/todos/package.json",
+      "nx/core/package-json"
+    ]
+  }
+}

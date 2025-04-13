@@ -1,0 +1,21 @@
+{
+  "run": {
+    "command": "nx start todos",
+    "startTime": "2025-04-13T09:40:00.278Z",
+    "endTime": "2025-04-13T09:40:05.005Z",
+    "inner": false
+  },
+  "tasks": [
+    {
+      "taskId": "todos:start",
+      "target": "start",
+      "projectName": "todos",
+      "hash": "17559208186263426820",
+      "startTime": "2025-04-13T09:40:00.297Z",
+      "endTime": "2025-04-13T09:40:05.005Z",
+      "params": "",
+      "cacheStatus": "cache-miss",
+      "status": 1
+    }
+  ]
+}

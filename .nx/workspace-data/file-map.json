@@ -1,0 +1,141 @@
+{
+  "version": "6.0",
+  "nxVersion": "20.7.1",
+  "pathMappings": {},
+  "nxJsonPlugins": [],
+  "fileMap": {
+    "projectFileMap": {
+      "todos": [
+        {
+          "file": "apps/todos/.editorconfig",
+          "hash": "4165385352547808172"
+        },
+        {
+          "file": "apps/todos/.gitignore",
+          "hash": "18168400278403753650"
+        },
+        {
+          "file": "apps/todos/.vscode/extensions.json",
+          "hash": "5331566439708925252"
+        },
+        {
+          "file": "apps/todos/.vscode/launch.json",
+          "hash": "17038929134016848735"
+        },
+        {
+          "file": "apps/todos/.vscode/tasks.json",
+          "hash": "5336636969995539451"
+        },
+        {
+          "file": "apps/todos/README.md",
+          "hash": "6037352377650097401"
+        },
+        {
+          "file": "apps/todos/angular.json",
+          "hash": "11959069531526672764"
+        },
+        {
+          "file": "apps/todos/package-lock.json",
+          "hash": "9076653251266631827"
+        },
+        {
+          "file": "apps/todos/package.json",
+          "hash": "5226547286640090240",
+          "deps": [
+            "npm:tslib"
+          ]
+        },
+        {
+          "file": "apps/todos/public/favicon.ico",
+          "hash": "3988961587069885523"
+        },
+        {
+          "file": "apps/todos/src/app/app.component.html",
+          "hash": "10055063688083539324"
+        },
+        {
+          "file": "apps/todos/src/app/app.component.scss",
+          "hash": "4055606894390288348"
+        },
+        {
+          "file": "apps/todos/src/app/app.component.spec.ts",
+          "hash": "5250403773001219380"
+        },
+        {
+          "file": "apps/todos/src/app/app.component.ts",
+          "hash": "2738938512797399215"
+        },
+        {
+          "file": "apps/todos/src/app/app.config.ts",
+          "hash": "15622593383567488047"
+        },
+        {
+          "file": "apps/todos/src/app/todo-list/todo-list.component.html",
+          "hash": "6018587557376830423"
+        },
+        {
+          "file": "apps/todos/src/app/todo-list/todo-list.component.scss",
+          "hash": "3244421341483603138"
+        },
+        {
+          "file": "apps/todos/src/app/todo-list/todo-list.component.spec.ts",
+          "hash": "11189184276061754333"
+        },
+        {
+          "file": "apps/todos/src/app/todo-list/todo-list.component.ts",
+          "hash": "4131604454653991576"
+        },
+        {
+          "file": "apps/todos/src/app/todo-list/todo.ts",
+          "hash": "9236131606127171618"
+        },
+        {
+          "file": "apps/todos/src/app/todo-list/todos.service.spec.ts",
+          "hash": "3865886198212551567"
+        },
+        {
+          "file": "apps/todos/src/app/todo-list/todos.service.ts",
+          "hash": "11792168718146910365"
+        },
+        {
+          "file": "apps/todos/src/index.html",
+          "hash": "12431288882876392475"
+        },
+        {
+          "file": "apps/todos/src/main.ts",
+          "hash": "4927504514031276065"
+        },
+        {
+          "file": "apps/todos/src/styles.scss",
+          "hash": "2916626545727041299"
+        },
+        {
+          "file": "apps/todos/tsconfig.app.json",
+          "hash": "17212958746959192557"
+        },
+        {
+          "file": "apps/todos/tsconfig.json",
+          "hash": "10972169151494174741"
+        },
+        {
+          "file": "apps/todos/tsconfig.spec.json",
+          "hash": "8918301549046766373"
+        }
+      ]
+    },
+    "nonProjectFiles": [
+      {
+        "file": "package.json",
+        "hash": "13615942436544726057"
+      },
+      {
+        "file": "pnpm-lock.yaml",
+        "hash": "3237473273832461438"
+      },
+      {
+        "file": "pnpm-workspace.yaml",
+        "hash": "16072193458965970519"
+      }
+    ]
+  }
+}
