@@ -31,11 +31,11 @@
       },
       {
         "file": "package.json",
-        "hash": "9736681803959763677"
+        "hash": "12670499776300666099"
       },
       {
         "file": "pnpm-lock.yaml",
-        "hash": "17512840393317429647"
+        "hash": "11852011833038341336"
       },
       {
         "file": "pnpm-workspace.yaml",
@@ -57,7 +57,7 @@
         },
         {
           "file": "apps/todo-app/project.json",
-          "hash": "3450890029333504352"
+          "hash": "4890637040856306765"
         },
         {
           "file": "apps/todo-app/public/favicon.ico",
@@ -65,7 +65,7 @@
         },
         {
           "file": "apps/todo-app/src/app/app.component.html",
-          "hash": "11987652264972370457"
+          "hash": "5540258880896442768"
         },
         {
           "file": "apps/todo-app/src/app/app.component.scss",
@@ -73,38 +73,21 @@
         },
         {
           "file": "apps/todo-app/src/app/app.component.ts",
-          "hash": "10973465470869044658",
+          "hash": "12178685740514049448",
           "deps": [
-            "npm:@angular/core",
-            "npm:@angular/router"
+            "npm:@angular/core"
           ]
         },
         {
           "file": "apps/todo-app/src/app/app.config.ts",
-          "hash": "6137170128205633588",
+          "hash": "2062031923174918763",
           "deps": [
-            "npm:@angular/core",
-            "npm:@angular/router"
-          ]
-        },
-        {
-          "file": "apps/todo-app/src/app/app.routes.ts",
-          "hash": "6185150965714414910",
-          "deps": [
-            "npm:@angular/router"
-          ]
-        },
-        {
-          "file": "apps/todo-app/src/app/nx-welcome.component.ts",
-          "hash": "6056278656446716285",
-          "deps": [
-            "npm:@angular/core",
-            "npm:@angular/common"
+            "npm:@angular/core"
           ]
         },
         {
           "file": "apps/todo-app/src/index.html",
-          "hash": "1912472317549393786"
+          "hash": "14480945531808228970"
         },
         {
           "file": "apps/todo-app/src/main.ts",
@@ -115,7 +98,7 @@
         },
         {
           "file": "apps/todo-app/src/styles.scss",
-          "hash": "5195668842064076916"
+          "hash": "4356670945577703102"
         },
         {
           "file": "apps/todo-app/tsconfig.app.json",

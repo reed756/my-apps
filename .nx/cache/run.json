@@ -1,18 +1,18 @@
 {
   "run": {
-    "command": "nx start todos",
-    "startTime": "2025-04-13T16:43:55.391Z",
-    "endTime": "2025-04-13T16:44:53.219Z",
+    "command": "nx lint todo-app",
+    "startTime": "2025-04-15T19:36:21.207Z",
+    "endTime": "2025-04-15T19:36:22.688Z",
     "inner": false
   },
   "tasks": [
     {
-      "taskId": "todos:start",
-      "target": "start",
-      "projectName": "todos",
-      "hash": "17520280942355082912",
-      "startTime": "2025-04-13T16:43:55.414Z",
-      "endTime": "2025-04-13T16:44:53.218Z",
+      "taskId": "todo-app:lint",
+      "target": "lint",
+      "projectName": "todo-app",
+      "hash": "17911436754335894531",
+      "startTime": "2025-04-15T19:36:21.270Z",
+      "endTime": "2025-04-15T19:36:22.685Z",
       "params": "",
       "cacheStatus": "cache-miss",
       "status": 0

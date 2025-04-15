@@ -8,12 +8,16 @@
   "targets": {
     "build": {
       "executor": "@angular-devkit/build-angular:application",
-      "outputs": ["{options.outputPath}"],
+      "outputs": [
+        "{options.outputPath}"
+      ],
       "options": {
         "outputPath": "dist/apps/todo-app",
         "index": "apps/todo-app/src/index.html",
         "browser": "apps/todo-app/src/main.ts",
-        "polyfills": ["zone.js"],
+        "polyfills": [
+          "zone.js"
+        ],
         "tsConfig": "apps/todo-app/tsconfig.app.json",
         "inlineStyleLanguage": "scss",
         "assets": [
@@ -22,7 +26,10 @@
             "input": "apps/todo-app/public"
           }
         ],
-        "styles": ["apps/todo-app/src/styles.scss"],
+        "styles": [
+          "@angular/material/prebuilt-themes/cyan-orange.css",
+          "apps/todo-app/src/styles.scss"
+        ],
         "scripts": []
       },
       "configurations": {
